@@ -1,4 +1,4 @@
-import { slider } from "../data.js"
+import { slider } from "./data.js"
 
 window.addEventListener('keydown', () =>{
     buttonKey(event);
