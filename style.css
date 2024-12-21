@@ -14,15 +14,6 @@ body{
     }
 }
 
-/*section{
-    position: relative;
-    max-width: 1200px;
-    min-height: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}*/
-
 .pattern-quotes{
     max-width: 5.625rem;
     position: absolute;
@@ -68,7 +59,7 @@ body{
 @media (max-width: 37.5rem) {
     .back-ground-images3{
         position: absolute;
-        bottom: -320px;
+        /*bottom: -320px;*/
         left: 0px;
         z-index: -1;
     }
